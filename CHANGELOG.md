@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/untrustedmodders/plugify-module-python3.12/compare/v1.0.2...v1.0.3) (2025-03-09)
+
+
+### Bug Fixes
+
+* add file strip ([69e4968](https://github.com/untrustedmodders/plugify-module-python3.12/commit/69e496804d10b63a8bdd1a0c5e472adcd4866f0b))
+
 ## [1.0.2](https://github.com/untrustedmodders/plugify-module-python3.12/compare/v1.0.1...v1.0.2) (2025-02-17)
 
 
