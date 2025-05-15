@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.1.1](https://github.com/untrustedmodders/plugify-module-python3.12/compare/v1.1.0...v1.1.1) (2025-05-15)
+
+
+### Bug Fixes
+
+* add cmake versioning ([10e26ac](https://github.com/untrustedmodders/plugify-module-python3.12/commit/10e26ac8388105172eb7f57e29b5d67d53bd4c10))
+* arm build ([6f0c8c6](https://github.com/untrustedmodders/plugify-module-python3.12/commit/6f0c8c67abb21ad496142cbcf171f0c85fa780b7))
+* update plugify ([f51eaed](https://github.com/untrustedmodders/plugify-module-python3.12/commit/f51eaede623ee631283fddca69f369569c46edcf))
+* update plugify and clang tools ([3aae26c](https://github.com/untrustedmodders/plugify-module-python3.12/commit/3aae26c6ce950d2508038a864e7483784fc9d1e2))
+
 ## [1.1.0](https://github.com/untrustedmodders/plugify-module-python3.12/compare/v1.0.2...v1.1.0) (2025-03-27)
 
 
