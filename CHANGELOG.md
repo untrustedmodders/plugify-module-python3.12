@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.1.1](https://github.com/untrustedmodders/plugify-module-python3.12/compare/v1.1.0...v1.1.1) (2025-05-18)
+
+
+### Bug Fixes
+
+* add apple binaries ([496540d](https://github.com/untrustedmodders/plugify-module-python3.12/commit/496540d58e3cd1d1794fe3f8933b28a1282392a1))
+* add cmake versioning ([10e26ac](https://github.com/untrustedmodders/plugify-module-python3.12/commit/10e26ac8388105172eb7f57e29b5d67d53bd4c10))
+* arm build ([6f0c8c6](https://github.com/untrustedmodders/plugify-module-python3.12/commit/6f0c8c67abb21ad496142cbcf171f0c85fa780b7))
+* remove ds stores ([662d2c8](https://github.com/untrustedmodders/plugify-module-python3.12/commit/662d2c81ac4a15b49818cc97ced82867afb4dbb1))
+* rename python3.12 libs ([f29ba0e](https://github.com/untrustedmodders/plugify-module-python3.12/commit/f29ba0ed31a8b4be8f8a2b80cd99ba058ed91f29))
+* update plugify ([108c5c4](https://github.com/untrustedmodders/plugify-module-python3.12/commit/108c5c4dcbb8b4ef43e2400b69d72b2abc61a4b8))
+* update plugify ([f51eaed](https://github.com/untrustedmodders/plugify-module-python3.12/commit/f51eaede623ee631283fddca69f369569c46edcf))
+* update plugify and clang tools ([3aae26c](https://github.com/untrustedmodders/plugify-module-python3.12/commit/3aae26c6ce950d2508038a864e7483784fc9d1e2))
+
 ## [1.1.0](https://github.com/untrustedmodders/plugify-module-python3.12/compare/v1.0.2...v1.1.0) (2025-03-27)
 
 
