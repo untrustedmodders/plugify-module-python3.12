@@ -1,5 +1,25 @@
 # Changelog
 
+## [1.1.1](https://github.com/untrustedmodders/plugify-module-python3.12/compare/v1.1.0...v1.1.1) (2025-06-22)
+
+
+### Bug Fixes
+
+* add apple binaries ([496540d](https://github.com/untrustedmodders/plugify-module-python3.12/commit/496540d58e3cd1d1794fe3f8933b28a1282392a1))
+* add cmake versioning ([10e26ac](https://github.com/untrustedmodders/plugify-module-python3.12/commit/10e26ac8388105172eb7f57e29b5d67d53bd4c10))
+* arm build ([6f0c8c6](https://github.com/untrustedmodders/plugify-module-python3.12/commit/6f0c8c67abb21ad496142cbcf171f0c85fa780b7))
+* remove ds stores ([662d2c8](https://github.com/untrustedmodders/plugify-module-python3.12/commit/662d2c81ac4a15b49818cc97ced82867afb4dbb1))
+* rename python3.12 libs ([f29ba0e](https://github.com/untrustedmodders/plugify-module-python3.12/commit/f29ba0ed31a8b4be8f8a2b80cd99ba058ed91f29))
+* update plugify ([ca3158a](https://github.com/untrustedmodders/plugify-module-python3.12/commit/ca3158ae09e29ab60044bd80d76c7f5c67daa5a9))
+* update plugify ([4260e91](https://github.com/untrustedmodders/plugify-module-python3.12/commit/4260e911813c344b1b4aa5d3970b70367d5cccd9))
+* update plugify ([44341d5](https://github.com/untrustedmodders/plugify-module-python3.12/commit/44341d557f4ccb7302fc4bb5df29715904d4f7df))
+* update plugify ([0155957](https://github.com/untrustedmodders/plugify-module-python3.12/commit/0155957b2f6b17e87e8a5a22ae02ce718c382806))
+* update plugify ([fbdc88c](https://github.com/untrustedmodders/plugify-module-python3.12/commit/fbdc88cacf32ecf925e78aa9c64b57ae097243f7))
+* update plugify ([108c5c4](https://github.com/untrustedmodders/plugify-module-python3.12/commit/108c5c4dcbb8b4ef43e2400b69d72b2abc61a4b8))
+* update plugify ([f51eaed](https://github.com/untrustedmodders/plugify-module-python3.12/commit/f51eaede623ee631283fddca69f369569c46edcf))
+* update plugify and clang tools ([3aae26c](https://github.com/untrustedmodders/plugify-module-python3.12/commit/3aae26c6ce950d2508038a864e7483784fc9d1e2))
+* update version naming ([03c648b](https://github.com/untrustedmodders/plugify-module-python3.12/commit/03c648bde3f8e6fdd32cc373c9fcc6eaec02dc67))
+
 ## [1.1.0](https://github.com/untrustedmodders/plugify-module-python3.12/compare/v1.0.2...v1.1.0) (2025-03-27)
 
 
