@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.3](https://github.com/untrustedmodders/plugify-module-python3.12/compare/v1.1.2...v1.1.3) (2025-06-28)
+
+
+### Bug Fixes
+
+* update readme and add missing permission ([22e7988](https://github.com/untrustedmodders/plugify-module-python3.12/commit/22e79889e34e3ec7f76f7ada1be9f7f63d16f777))
+
 ## [1.1.2](https://github.com/untrustedmodders/plugify-module-python3.12/compare/v1.1.1...v1.1.2) (2025-06-26)
 
 
